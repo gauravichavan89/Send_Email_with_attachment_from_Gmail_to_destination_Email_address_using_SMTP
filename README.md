@@ -21,7 +21,7 @@ For testing the output: Gmail application is needed
 ## Installation
 
 
-[1]Follow https://www.mathworks.com/downloads/ for downloading MATLAB R2018b for
+[1] Follow https://www.mathworks.com/downloads/ for downloading MATLAB R2018b for
 Windows Installer.
 
 
