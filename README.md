@@ -34,6 +34,8 @@ the code by clicking the green play button provided in the title bar of the appl
 
 
 ## Expected Successful Test Results
+
+
 I have created two dummy gmail accounts for just testing this program (which are not the ones
 that I normally use), so please feel free to use the
 
@@ -50,3 +52,29 @@ following credentials of a dummy email account
     
 You would see the image attachment of apple.jpg in the receiver’s email account with the email
 subject and body.
+
+
+## Please Note
+* Although here, I have used gmail account but this program can send an email through a gmail
+account to the receiver with any email address eg: ualberta.ca, hotmail.com
+* Since the image file is in the same directory as the qs3.m file I did not have to separately
+specify the directory; and just entered the image name in the program; you may do the same.
+* I have written a few comments in my program to help you understand the written code.
+
+
+## Documents included in the repository
+
+
+* qs3.py’ is my matlab code file with necessary comments;
+* ‘apple.jpg’(in the same zipped folder that I have included) is the image that will be sent as an
+attachment to the receiver;
+* This README file for clear instructions on how to execute the code to get the desired
+results.
+
+
+## Acknowledgements
+
+
+[1] MATLAB Documentation: https://www.mathworks.com/help/
+I have taken clues from mathworks documentation and have reconstructed the code to suit the
+requirements of the question
